@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Thomas Adriaanse
 
 ### About Me 👦
-
+- 🔭 I’m currently working on ![Fantasybballstats](https://fantasybballstats.com), a fantasy basketball analytics website
 - 🌱 I’m currently learning: AWS
 - 👯 I’m looking to collaborate on: Anything cool!
 - 📫 How to reach me: thomas.adriaanse@gmail.com
