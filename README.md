@@ -1,11 +1,9 @@
-### Hi there 👋, I'm Thomas Adriaanse
+### Hello, I'm Thomas Adriaanse
 
-### About Me 👦
-- 🔭 I’m currently working on [Fantasybballstats](https://fantasybballstats.com), a fantasy basketball analytics website
-- 🌱 I’m currently learning: AWS
-- 👯 I’m looking to collaborate on: Anything cool!
-- 📫 How to reach me: thomas.adriaanse@gmail.com
-- 😄 Pronouns: he/him
+### About Me
+- I’m currently working on [Fantasybballstats](https://fantasybballstats.com), a fantasy basketball analytics website
+- I’m currently learning: AWS
+- I’m looking to collaborate on: Anything cool!
 
 ### Technologies 👨‍💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
